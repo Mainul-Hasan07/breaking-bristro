@@ -1,0 +1,28 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.orange-color{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight:500 ;
+    padding: 2% 5%;
+    border-radius: 200px;
+}
+.half-width img{
+    width: 90%;
+}
